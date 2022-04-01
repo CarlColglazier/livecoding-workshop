@@ -12,7 +12,7 @@ Learning goals:
 + Introduction / demo (10 minutes)
 + Logistics (10 minutes)
 + Background lecture (30 minutes)
-+ Interactive activity (45 minutes)
++ Interactive activity (45 minutes, flexible)
 + Wrap-up and next steps (15 minutes)
 
 
@@ -31,7 +31,7 @@ See the code folder for my starting point. This will be a simple demo of music l
 
 ## Background
 
-See presentation folder.
+See presentation folder ([slide contents here](./presentation/slides.md))
 
 ## Interactive
 
@@ -40,6 +40,7 @@ For this activity, we will use a collaborative version of p5.js: https://teddavi
 This runs inside your web browser, so you shouldn't need to install anything.
 
 See the code folder.
+
 
 ## Wrap-up and Next Steps
 

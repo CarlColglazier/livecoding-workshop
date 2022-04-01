@@ -10,7 +10,7 @@ drawings:
 
 Carl Colglazier
 
-April 5-6, 2022
+April 5/6, 2022
 
 ---
 
@@ -18,7 +18,7 @@ April 5-6, 2022
 
 Background
 
-+ Second-year PhD in Technology and Social Behavior (Northwestern)
++ Second-year PhD student in Technology and Social Behavior (Northwestern)
 + B.S. Computer Science, B.A. Communication--Media (NC State)
 + Really into modular synthesizers
 
@@ -29,15 +29,22 @@ image: ./images/cmj.jpeg
 
 ## Computer music
 
-(image of computer music journal)
+A term used to mean many things, including the use of computing for
 
-(image of xenacis or similar)
++ composition
++ sound synthesis[^1]
+
+Different from similar techniques in that it uses **digital** tools.
+
+[^1]: Manning, Peter. *Electronic and computer music*. Oxford University Press, 2013.
 
 ---
 
 ## The problem with performing computer music live
 
-Are you just pressing buttons?
+Back in the day: <v-click>computing power</v-click>
+
+Today: <v-click>are you just pressing buttons</v-click>
 
 ---
 
@@ -45,6 +52,12 @@ Are you just pressing buttons?
 
 **Livecoding** is...
 
+Example: Algoraves
+
+![Algorave Logo](images/Algorave_logo.png)
+
+---
+layout: fact
 ---
 
 Should code remain hidden in the background...
@@ -117,6 +130,27 @@ Charli XCX -- Track 10
 
 ---
 
+## Computers and digital arts
+
+Algorists
+
+```
+if (creation && object of art && algorithm && one's own algorithm) {
+     return * an algorist *
+} else {
+     return * not an algorist *
+}
+```
+
+
 ## Some other livecoding tools
 
+---
+layout: iframe
+url: https://hydra.ojack.xyz/?sketch_id=malitzin_1
+---
 
+---
+layout: iframe
+url: https://editor.p5js.org/
+---
